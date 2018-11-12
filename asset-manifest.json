@@ -1,13 +1,13 @@
 {
   "main.css": "/policymonitor/static/css/main.b4abf364.chunk.css",
-  "main.js": "/policymonitor/static/js/main.0c6830be.chunk.js",
-  "main.js.map": "/policymonitor/static/js/main.0c6830be.chunk.js.map",
+  "main.js": "/policymonitor/static/js/main.b112597c.chunk.js",
+  "main.js.map": "/policymonitor/static/js/main.b112597c.chunk.js.map",
   "static/js/1.fd84c736.chunk.js": "/policymonitor/static/js/1.fd84c736.chunk.js",
   "static/js/1.fd84c736.chunk.js.map": "/policymonitor/static/js/1.fd84c736.chunk.js.map",
   "runtime~main.js": "/policymonitor/static/js/runtime~main.e65bb9b5.js",
   "runtime~main.js.map": "/policymonitor/static/js/runtime~main.e65bb9b5.js.map",
   "static/css/main.b4abf364.chunk.css.map": "/policymonitor/static/css/main.b4abf364.chunk.css.map",
   "index.html": "/policymonitor/index.html",
-  "precache-manifest.d8fe4b864c5eb474fa81c00c2b99ec65.js": "/policymonitor/precache-manifest.d8fe4b864c5eb474fa81c00c2b99ec65.js",
+  "precache-manifest.ffa7538a5768015ec26216f8e05565b0.js": "/policymonitor/precache-manifest.ffa7538a5768015ec26216f8e05565b0.js",
   "service-worker.js": "/policymonitor/service-worker.js"
 }
